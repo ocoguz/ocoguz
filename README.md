@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ocoguz
+- 👋 Hi, I’m @OrhanCan
 - 👀 I’m interested in web / mobile apps
 - 🌱 I’m currently learning C #
 - 💞️ I’m looking to collaborate on N/A
