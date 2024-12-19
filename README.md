@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OrhanCan
 - 👀 I’m interested in web / mobile apps
-- 🌱 I’m currently learning C #
+- 🌱 I’m currently learning C # , .NET Maui , Blazor ,  Javascript , Nodejs, Express, Quasar, Vuejs 
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me ...
 
